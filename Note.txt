@@ -8,4 +8,4 @@ https://redux-toolkit.js.org/tutorials/overview
 ============================================================
 
 PS C:\react> npx create-react-app redux-toolkit-tutorial --use-npm
-
+PS C:\react\redux-toolkit-tutorial> npm install @reduxjs/toolkit react-redux
