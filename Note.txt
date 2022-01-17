@@ -1,0 +1,11 @@
+Redux Tutorial (with Redux Toolkit)
+https://www.youtube.com/watch?v=iBUJVy8phqw
+
+https://codesandbox.io/s/modest-https-h7x3m?file=/package.json
+https://github.com/Annie-Huang/redux-toolkit-tutorial
+
+https://redux-toolkit.js.org/tutorials/overview
+============================================================
+
+PS C:\react> npx create-react-app redux-toolkit-tutorial --use-npm
+
